@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @JinweiOS
 - 👀 I’m a Front-end engineer
 - 💞️ welcome my GitHub home
-- 📫 I'm a student from UJS
