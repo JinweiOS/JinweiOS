@@ -1,7 +1,7 @@
 ## Info
 - 👋 Hi, I’m @JinweiOS
 - 👀 I’m working for frontend, backend and web3.
-- 📧 Contact Me: jinwei.peng@beingthink.com
+- 📧 Contact Me By: jinwei.peng@beingthink.com
 ## Site
 - 🎐[Being/Think](https://www.beingthink.com) you can find an community here.
 ## Work
